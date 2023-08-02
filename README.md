@@ -1,6 +1,4 @@
-# Getting Started with Brase
-
-## Birdge Ethereum mainnet -> Base mainnet
+# Birdge Ethereum mainnet -> Base mainnet
 
 ### Send ONLY ETH !!!
 
