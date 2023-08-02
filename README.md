@@ -1,4 +1,4 @@
-# Birdge Ethereum mainnet -> Base mainnet
+# Bridge Ethereum mainnet -> Base mainnet
 
 ### Send ONLY ETH !!!
 
