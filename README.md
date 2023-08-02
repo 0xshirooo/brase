@@ -1,6 +1,6 @@
 # Getting Started with Brase
 
-## Send ONLY ETH !!!
+### Send ONLY ETH !!!
 
 
 ### `npm start`
