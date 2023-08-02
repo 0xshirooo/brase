@@ -10,4 +10,4 @@
 
 ### Transfer to Base takes up to 15 minutes
 
-## If you have issue(s) while connecting your wallet, change network to Ethereum and then refresh the page
+If you have issue(s) while connecting your wallet, change network to Ethereum and then refresh the page
