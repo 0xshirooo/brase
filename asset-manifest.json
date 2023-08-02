@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/brase/static/css/main.8e6bf664.css",
+    "main.js": "/brase/static/js/main.4c9ebea0.js",
+    "static/js/787.8513995f.chunk.js": "/brase/static/js/787.8513995f.chunk.js",
+    "static/media/base-logo.png": "/brase/static/media/base-logo.14872aba01941c44ae73.png",
+    "static/media/website-logo.jpeg": "/brase/static/media/website-logo.88592e0399a26d8d9721.jpeg",
+    "index.html": "/brase/index.html",
+    "main.8e6bf664.css.map": "/brase/static/css/main.8e6bf664.css.map",
+    "main.4c9ebea0.js.map": "/brase/static/js/main.4c9ebea0.js.map",
+    "787.8513995f.chunk.js.map": "/brase/static/js/787.8513995f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e6bf664.css",
+    "static/js/main.4c9ebea0.js"
+  ]
+}
