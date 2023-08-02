@@ -1,5 +1,8 @@
 # Bridge Ethereum mainnet -> Base mainnet
 
+This is a "user-friendly" UI allowing you to bridge ETH from mainnet to Base.
+You can check to confirm that the used contract is the Base contract in the "TransferForm.js".
+
 ### Send ONLY ETH !!!
 
 ### Service fee : 0.1%
